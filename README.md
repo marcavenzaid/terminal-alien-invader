@@ -7,13 +7,15 @@ I used the conio.h library in the original code. When I revisited this old proje
 
 If you want to check it out, run bin/Debug/TerminalAlienInvader.exe
 
-# Screenshots
+# Screenshots and GIF
+
+![](videos_and_gifs/TerminalAlienInvader.gif)
 
 ## Menu
-![Alt text](screenshots/menu.png?raw=true "Menu")
+![](screenshots/menu.png?raw=true "Menu")
 
 ## Ship Choices
-![Alt text](screenshots/ship_choices.png?raw=true "Ship Choices")
+![](screenshots/ship_choices.png?raw=true "Ship Choices")
 
 ## Gameplay
-![Alt text](screenshots/gameplay.png?raw=true "Gameplay")
+![](screenshots/gameplay.png?raw=true "Gameplay")
