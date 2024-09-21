@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1722451113 source:d:\_from laptop\drive f\computer science\programming\past programs\c\1st year 2nd sem\terminalalieninvader\_conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"_conio.h"
+
+1722451075 d:\_from laptop\drive f\computer science\programming\past programs\c\1st year 2nd sem\terminalalieninvader\_conio.h
+
+1722450238 source:d:\_from laptop\drive f\computer science\programming\past programs\c\1st year 2nd sem\terminalalieninvader\conio.c
+	<windows.h>
+	<conio.h>
+	"conio.h"
+	<limits.h>
+	<stdbool.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	"conio.h"
+
+1722450244 d:\_from laptop\drive f\computer science\programming\past programs\c\1st year 2nd sem\terminalalieninvader\conio.h
+
+1726958417 source:d:\_from laptop\drive f\computer science\programming\past programs\c\1st year 2nd sem\terminalalieninvader\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"_conio.h"
+	"conio.h"
+
+1722451113 source:d:\programming projects\codeblocks projects\terminalalieninvader\_conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"_conio.h"
+
+1722451075 d:\programming projects\codeblocks projects\terminalalieninvader\_conio.h
+
+1722450238 source:d:\programming projects\codeblocks projects\terminalalieninvader\conio.c
+	<windows.h>
+	<conio.h>
+	"conio.h"
+	<limits.h>
+	<stdbool.h>
+	<stdio.h>
+	<termios.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/ioctl.h>
+	"conio.h"
+
+1722450244 d:\programming projects\codeblocks projects\terminalalieninvader\conio.h
+
+1726958417 source:d:\programming projects\codeblocks projects\terminalalieninvader\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"_conio.h"
+	"conio.h"
+
