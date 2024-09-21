@@ -8,10 +8,10 @@ I used the conio.h library in the original code. When I revisited this old proje
 # Screenshots
 
 ## Menu
-![Alt text](relative%20path/screenshots/menu.jpg?raw=true "Menu")
+![Alt text](screenshots/menu.png?raw=true "Menu")
 
 ## Ship Choices
-![Alt text](relative%20path/screenshots/ship_choices.jpg?raw=true "Ship Choices")
+![Alt text](screenshots/ship_choices.png?raw=true "Ship Choices")
 
 ## Gameplay
-![Alt text](relative%20path/screenshots/gameplay.jpg?raw=true "Gameplay")
+![Alt text](screenshots/gameplay.png?raw=true "Gameplay")
